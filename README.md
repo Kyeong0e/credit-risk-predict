@@ -12,3 +12,7 @@
 ### 1️⃣ 데이터 다운로드
 - Kaggle 링크: https://www.kaggle.com/c/GiveMeSomeCredit/data
 - 파일명: `cs-training.csv`
+
+## ▶️ 실행하기 (Google Colab)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kyeong0e/credit-risk-project/blob/main/notebooks/01_preprocessing.ipynb)
